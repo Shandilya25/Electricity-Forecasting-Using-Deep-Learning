@@ -4,7 +4,10 @@
 This project implements a Dual RNN (Recurrent Neural Network) for sequence modeling tasks using PyTorch.  
 The notebook contains code for data preprocessing, training the model, saving it, and reloading it for inference.
 #### Architecture
-(Architecture.png)
+
+#### Exercises
+![Barbell exercise examples](Architecture.png)
+
 
 ---
 
