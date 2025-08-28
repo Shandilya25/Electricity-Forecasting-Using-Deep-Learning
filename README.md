@@ -75,10 +75,8 @@ model.eval()  # Set the model to evaluation mode
 project_folder/
 ├── Code.ipynb             # Main Jupyter notebook
 ├── Models/                # Folder for saved model weights
-├── Final_data.csv         # Folder containing dataset 
 └── README.md              # This readme file
 └── Graphs                 #Contains graph plots
-└── Presentation.pdf                 #Contains Presentation
 ```
 
 ---
