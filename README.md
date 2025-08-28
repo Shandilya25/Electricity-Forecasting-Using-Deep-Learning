@@ -5,7 +5,7 @@ This project implements a Dual RNN (Recurrent Neural Network) for sequence model
 The notebook contains code for data preprocessing, training the model, saving it, and reloading it for inference.
 #### Architecture
 
-#### Exercises
+
 ![Barbell exercise examples](Architecture.png)
 
 
